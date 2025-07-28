@@ -1,6 +1,7 @@
 package ObservableObserver.Subject;
 
-import DesignPatterns.ObservableObserver.Observer.IObserver;
+
+import ObservableObserver.Observer.IObserver;
 
 public interface ISubject {
     void addObserver(IObserver observer);

@@ -1,7 +1,8 @@
 package ObservableObserver;
 
-import DesignPatterns.ObservableObserver.Observer.Observer;
-import DesignPatterns.ObservableObserver.Subject.Subject;
+
+import ObservableObserver.Observer.Observer;
+import ObservableObserver.Subject.Subject;
 
 public class ObserverMain {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package ObservableObserver.Subject;
 
-import DesignPatterns.ObservableObserver.Observer.IObserver;
+import ObservableObserver.Observer.IObserver;
 
 import java.util.ArrayList;
 import java.util.List;

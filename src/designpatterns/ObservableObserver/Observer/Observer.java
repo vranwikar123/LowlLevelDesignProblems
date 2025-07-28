@@ -1,7 +1,8 @@
 package ObservableObserver.Observer;
 
-import DesignPatterns.ObservableObserver.Subject.ISubject;
-import DesignPatterns.ObservableObserver.Subject.Subject;
+
+import ObservableObserver.Subject.ISubject;
+import ObservableObserver.Subject.Subject;
 
 public class Observer implements IObserver{
     private String test;
